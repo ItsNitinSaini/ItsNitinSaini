@@ -1,5 +1,9 @@
-# 💫 About Me:
-CS Student | MERN Dev | Building things that (sometimes) work<br>
+<div align="center">
+
+# Hey there! I'm Nitin 👋
+### CS Student | Flask & React Dev | Building things that (sometimes) work
+
+</div>
 
 
 ## 🌐 Socials:
