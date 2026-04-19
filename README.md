@@ -11,15 +11,7 @@
 
 <div align="center">
 
-![](https://streak-stats.demolab.com/?user=ItsNitinSaini&theme=dark&hide_border=false)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsNitinSaini&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-nitin.vercel.app/api?username=ItsNitinSaini&count_private=true&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
 
 </div>
 
