@@ -15,6 +15,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ItsNitinSaini
+          # PAT_1 secret allows reading private contributions
+          # Go to: Settings → Developer Settings → Personal Access Tokens (Classic)
+          # Create token with: repo (full) + read:user scopes
+          # Then add it in your repo: Settings → Secrets → Actions → New secret → Name: PAT_1
+          github_token: ${{ secrets.PAT_1 }}
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
