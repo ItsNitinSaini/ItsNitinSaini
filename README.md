@@ -19,8 +19,6 @@
 
 <div align="center">
 
-
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsNitinSaini&theme=github_dark)
 
 </div>
