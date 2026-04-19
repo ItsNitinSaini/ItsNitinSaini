@@ -19,9 +19,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-nitin.vercel.app/api?username=ItsNitinSaini&count_private=true&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-nitin.vercel.app/api/top-langs/?username=ItsNitinSaini&layout=compact&theme=dark&hide_border=false)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsNitinSaini&theme=github_dark)
 
