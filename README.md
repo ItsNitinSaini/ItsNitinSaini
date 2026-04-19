@@ -19,6 +19,10 @@
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats-nitin.vercel.app/api?username=ItsNitinSaini&count_private=true&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-nitin.vercel.app/api/top-langs/?username=ItsNitinSaini&layout=compact&theme=dark&hide_border=false)
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsNitinSaini&theme=github_dark)
 
 </div>
@@ -64,7 +68,11 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ItsNitinSaini/ItsNitinSaini/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsNitinSaini/ItsNitinSaini/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsNitinSaini/ItsNitinSaini/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ItsNitinSaini/ItsNitinSaini/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
