@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there! I'm Nitin 👋
-### CS Student | MERN Dev | Building things that (sometimes) work
+### CS Student | Full Stack Dev | Building things that (sometimes) work
 
 </div>
 
@@ -83,7 +83,7 @@ the gym. My code works. I'm just not always sure why.
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=ItsNitinSaini&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SainiNitin-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
